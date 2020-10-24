@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ex2 {
 
-	public static void main(String[] args) {
+	public void Show() {
 		Scanner in = new Scanner(System.in);
 		Scanner inInt = new Scanner(System.in);
         

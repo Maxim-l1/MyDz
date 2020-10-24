@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ex1 {
 
-	public static void main(String[] args) {
+	public void Show() {
         Scanner in = new Scanner(System.in);
         
 		System.out.print("Введите массив чисел через пробел: ");
